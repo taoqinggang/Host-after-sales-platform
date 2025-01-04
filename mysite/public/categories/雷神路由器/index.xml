@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>雷神路由器 on 主机售后平台 v1.0</title>
+    <link>http://localhost:1313/categories/%E9%9B%B7%E7%A5%9E%E8%B7%AF%E7%94%B1%E5%99%A8/</link>
+    <description>Recent content in 雷神路由器 on 主机售后平台 v1.0</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 17 Dec 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/%E9%9B%B7%E7%A5%9E%E8%B7%AF%E7%94%B1%E5%99%A8/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>第三方路由器雷神插件新特性</title>
+      <link>http://localhost:1313/blog/20241217/sanfangchajian-newfeatures/</link>
+      <pubDate>Tue, 17 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/20241217/sanfangchajian-newfeatures/</guid>
+      <description>&lt;h3 id=&#34;新特性&#34;&gt;新特性：&lt;/h3&gt;&#xA;&lt;p&gt;&lt;strong&gt;1、支持vr、steamdeck设备加速&lt;/strong&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>雷神A7000路由器新特性</title>
+      <link>http://localhost:1313/blog/20241217/a7000-newfeatures/</link>
+      <pubDate>Tue, 17 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/20241217/a7000-newfeatures/</guid>
+      <description>&lt;h3 id=&#34;新特性&#34;&gt;新特性：&lt;/h3&gt;&#xA;&lt;p&gt;&lt;strong&gt;1、优化热门游戏的下载速度和游戏延迟&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;2、支持vr、steamdeck设备加速&lt;/strong&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>雷神A8000路由器新特性</title>
+      <link>http://localhost:1313/blog/20241217/a8000-newfeatures/</link>
+      <pubDate>Tue, 17 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/20241217/a8000-newfeatures/</guid>
+      <description>&lt;h3 id=&#34;新特性&#34;&gt;新特性：&lt;/h3&gt;&#xA;&lt;p&gt;&lt;strong&gt;1、优化热门游戏的下载速度和游戏延迟&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;2、支持vr、steamdeck设备加速&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h3 id=&#34;附硬件信息&#34;&gt;附：硬件信息&lt;/h3&gt;&#xA;&lt;h4 id=&#34;cpu&#34;&gt;cpu:&lt;/h4&gt;&#xA;&lt;p&gt;&lt;strong&gt;CPU 型号&lt;/strong&gt;：ARM Cortex-A53 (ARMv8 架构)&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;核心数&lt;/strong&gt;：2 核&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;频率 (BogoMIPS)&lt;/strong&gt;：26.00&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;架构&lt;/strong&gt;：ARMv8 64 位&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;支持特性&lt;/strong&gt;：AES、SHA、浮点、SIMD 等。&lt;/p&gt;&#xA;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-shell&#34; data-lang=&#34;shell&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;root@OpenWrt:~# cat /proc/cpuinfo&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;processor       : &lt;span style=&#34;color:#ae81ff&#34;&gt;0&lt;/span&gt;&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;model name      : ARMv8 Processor rev &lt;span style=&#34;color:#ae81ff&#34;&gt;4&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;(&lt;/span&gt;v8l&lt;span style=&#34;color:#f92672&#34;&gt;)&lt;/span&gt;&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;BogoMIPS        : 26.00&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;Features        : fp asimd evtstrm aes pmull sha1 sha2 crc32 cpuid&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;CPU implementer : 0x41&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;CPU architecture: &lt;span style=&#34;color:#ae81ff&#34;&gt;8&lt;/span&gt;&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;CPU variant     : 0x0&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;CPU part        : 0xd03&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;CPU revision    : &lt;span style=&#34;color:#ae81ff&#34;&gt;4&lt;/span&gt;&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;processor       : &lt;span style=&#34;color:#ae81ff&#34;&gt;1&lt;/span&gt;&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;model name      : ARMv8 Processor rev &lt;span style=&#34;color:#ae81ff&#34;&gt;4&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;(&lt;/span&gt;v8l&lt;span style=&#34;color:#f92672&#34;&gt;)&lt;/span&gt;&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;BogoMIPS        : 26.00&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;Features        : fp asimd evtstrm aes pmull sha1 sha2 crc32 cpuid&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;CPU implementer : 0x41&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;CPU architecture: &lt;span style=&#34;color:#ae81ff&#34;&gt;8&lt;/span&gt;&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;CPU variant     : 0x0&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;CPU part        : 0xd03&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;CPU revision    : &lt;span style=&#34;color:#ae81ff&#34;&gt;4&lt;/span&gt;&#xA;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h4 id=&#34;内存&#34;&gt;内存：&lt;/h4&gt;&#xA;&lt;p&gt;512 MB&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>路由器常见问题</title>
+      <link>http://localhost:1313/blog/20241212/luyouqi-common-problem/</link>
+      <pubDate>Thu, 12 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/20241212/luyouqi-common-problem/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;http://localhost:1313/img/updownload/2.png&#34; alt=&#34;/img/updownload/2.png&#34;&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

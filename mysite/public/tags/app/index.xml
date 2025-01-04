@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>APP on 主机售后平台 v1.0</title>
+    <link>http://localhost:1313/tags/app/</link>
+    <description>Recent content in APP on 主机售后平台 v1.0</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 17 Dec 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/app/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>雷神APP新特性</title>
+      <link>http://localhost:1313/blog/20241217/app-newfeatures/</link>
+      <pubDate>Tue, 17 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/20241217/app-newfeatures/</guid>
+      <description>&lt;h3 id=&#34;新特性&#34;&gt;新特性：&lt;/h3&gt;&#xA;&lt;p&gt;&lt;strong&gt;1、全新加速引擎上线，加速更快更稳定&lt;/strong&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
